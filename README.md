@@ -1,4 +1,6 @@
-<img src=".github/social-preview.png" alt="Small Count — a private tally, one click away" width="100%">
+<p align="center">
+  <img src="Resources/AppIcon.svg" width="148" height="148" alt="Small Count icon">
+</p>
 
 <h1 align="center">Small Count</h1>
 
